@@ -1,4 +1,9 @@
-## Escolaridade
+# Escolaridade
+
+## Certificados
+
+* IBM
+* Google
 
 
 1. Certificados<br>
