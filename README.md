@@ -14,9 +14,9 @@
 	* Ciência de Dados
 	* Ciência da Computação
 	* Ciência Exatas
-* Pós-Graduação
-* Lato Sensu
-* Stricto Sensu
+* Pós-Graduação 
+	* Lato Sensu
+	* Stricto Sensu
 
 ## Cursos (desenvolvimento)
 
