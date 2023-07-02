@@ -1,6 +1,6 @@
 # Escolaridade
 
 
-1. Certificados 
-2. Academico
+1. Certificados <br>
+2. Academico <br>
 3. Cursos (desenvolvimento)
