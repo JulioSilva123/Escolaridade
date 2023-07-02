@@ -1,7 +1,7 @@
 ## Escolaridade
 
 
-1. Certificados <br>
+1. Certificados: 
 	IBM
 	Google
 2. Academico <br>
