@@ -6,6 +6,7 @@
 
 * IBM
 * Google
+* Board
 
 ## Academico
 
@@ -18,19 +19,20 @@
 	* Lato Sensu
 	* Stricto Sensu
 
-## Cursos (desenvolvimento)
+## Cursos (em breve)
 
 
+
+
+
+
+<!--
 
 |     |  Descrição |     Título         |
 | ---:|:----------:|:------------------:|
 | 1   | [Graduação]| Defesa Cibernética |
 | 2   | [Graduação]| Defesa Cibernética |
 
-
-
-
-<!--
 
 |  2  | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                   		      | [Day2Operators.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day2Operators.java)              										    | 														       |
 |  3  | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)            | [Day3IntroToConditionalStatements.java](https://github.com/Java-aid/Hackerrank-Solutions/blob/master/HackerRankDashboard/Tutorials/30DaysOfCode/src/main/java/com/javaaid/hackerrank/solutions/thirtydaysofcode/Day3IntroToConditionalStatements.java)                  | 														       |
