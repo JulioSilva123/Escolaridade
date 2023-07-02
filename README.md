@@ -1,4 +1,4 @@
-# Escolaridade
+## Escolaridade
 
 
 1. Certificados <br>
