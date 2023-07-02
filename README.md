@@ -3,8 +3,8 @@
 
 1. Certificados: 
 
-	IBM
-	Google
+	1.1 IBM
+	1.2 Google
 
 2. Academico <br>
 3. Cursos (desenvolvimento)
