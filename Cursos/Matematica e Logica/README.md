@@ -85,8 +85,4 @@ Watch the promotional video from the link
 https://youtu.be/FlM1de9Sxh0
 -->
 
-## 2. Banco de Dados
-
-
-
-## 3. Machine Learning
+ 
