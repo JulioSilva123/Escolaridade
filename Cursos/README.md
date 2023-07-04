@@ -3,9 +3,9 @@
 
 ## 1. Linguagens
 
-	1. Python <br>
-	2. C# <br>
-	3. SQL <br>
+	1. Python
+	2. C# 
+	3. SQL
 	3. R 
 
 
