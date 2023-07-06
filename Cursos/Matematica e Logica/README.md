@@ -4,7 +4,7 @@
 ## 1. Mathematics for Engineers
 
 	
-	1. Matrix Algebra for Engineers
+	1- Matrix Algebra for Engineers
 
 		This course is all about matrices, and concisely covers the linear algebra that an engineer should know.   The mathematics in this course is presented at the level of an advanced high school student, but it is recommended that students take this course after completing a university-level single variable calculus course.  There are no derivatives or integrals involved, but students are expected to have a basic level of mathematical maturity.  Despite this, anyone interested in learning the basics of matrix algebra is welcome to join.
 
@@ -18,7 +18,7 @@
 -->	
 
 
-	2. Differential Equations for Engineers
+	2- Differential Equations for Engineers
 
 
 		This course is all about differential equations and covers both theory and applications. In the first five weeks, students will learn about ordinary differential equations, while the sixth week is an introduction to partial differential equations.
