@@ -1,4 +1,4 @@
-# [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/ibm-data-science?target=_blank))
+# Google Advanced Data Analytics[1]
 
 
 ### [URL do meu Certificado](https://www.coursera.org/account/accomplishments/professional-cert/WQZYCHU4LCUM){:target="_blank"}
@@ -24,3 +24,4 @@
 >Recomendamos Google Advanced Data Analytics pela Google no Coursera. Certificado obtido em June 26, 2023
 
 
+[1]: https://www.coursera.org/professional-certificates/ibm-data-science?target=_blank
