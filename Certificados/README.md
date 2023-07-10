@@ -3,6 +3,7 @@
 
 ### Certificados Profissionais
 
+
 1. Google
 2. Board
 3. Duke University
