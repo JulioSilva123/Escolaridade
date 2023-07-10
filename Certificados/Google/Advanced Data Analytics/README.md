@@ -1,4 +1,4 @@
-# <a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank">Google Advanced Data Analytics</a>
+# <a href='https://www.coursera.org/professional-certificates/ibm-data-science' target="_new">Google Advanced Data Analytics</a>
 
 ### [URL do meu Certificado](https://www.coursera.org/account/accomplishments/professional-cert/WQZYCHU4LCUM){:target="_blank"}
 ![](https://github.com/JulioSilva123/Escolaridade/blob/77a0e3d00a06f248bee18c52d54edea7c8448307/resources/Cert-Google-Advanced-Data-Analytics.png)
