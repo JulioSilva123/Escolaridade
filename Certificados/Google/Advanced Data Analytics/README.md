@@ -1,4 +1,4 @@
-# [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/ibm-data-science){:target="_blank"}
+# [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/ibm-data-science?target=_blank))
 
 
 ### [URL do meu Certificado](https://www.coursera.org/account/accomplishments/professional-cert/WQZYCHU4LCUM){:target="_blank"}
