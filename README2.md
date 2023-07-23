@@ -12,6 +12,11 @@
 ### Conect-se comigo:
 
 
+![Linkedin](https://www.linkedin.com/in/julio-silva-%E2%88%B4-27704812b/)
+![Coursera](https://www.coursera.org/user/ce3d0fe22974e29074a8ed1f4b23f4e0)
+![Credly](https://www.credly.com/users/julio-castro.e845504f/badges)
+![Facebook](https://www.facebook.com/jscientista/)
+
 
 ### Linguagens e Ferramentas:
 

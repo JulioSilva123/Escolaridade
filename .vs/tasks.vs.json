@@ -5,6 +5,11 @@
       "taskLabel": "tarefa-resources",
       "appliesTo": "resources/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Ola_Mundo",
+      "appliesTo": "colab/Ola_Mundo.ipynb",
+      "type": "launch"
     }
   ]
 }
