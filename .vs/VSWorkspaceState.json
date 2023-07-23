@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Academico\\Graduação",
     "\\Certificados",
-    "\\Certificados\\Board",
-    "\\Certificados\\Google",
-    "\\Certificados\\IBM",
-    "\\Cursos\\Google\\1. Google"
+    "\\Cursos",
+    "\\Cursos\\Linguagens",
+    "\\Cursos\\Matematica e Logica",
+    "\\resources"
   ],
-  "SelectedNode": "\\Certificados\\Board\\README.md",
   "PreviewInSolutionExplorer": false
 }
