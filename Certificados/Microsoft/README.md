@@ -11,6 +11,10 @@ Certificados Profissional Microsoft<br><br>
 
 
 
+
+
+
+
 ![MCSE](https://github.com/JulioSilva123/Escolaridade/blob/main/resources/google-data-analytics-certificate.2.png)
 ![Exam 461](https://github.com/JulioSilva123/Escolaridade/blob/main/resources/google-business-intelligence-certificate.png)
 ![Exam 462](https://github.com/JulioSilva123/Escolaridade/blob/main/resources/google-advanced-data-analytics-certificate.png)
