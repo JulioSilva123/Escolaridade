@@ -51,22 +51,24 @@
 ## Cursos (em breve)
 
 
+---
 
+## 📈 Minhas estatísticas e atividades do GitHub
 
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
+### 💻 Estatísticas do perfil
 
 <img alt="Mrunal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JulioSilva123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="132px"/><img alt="Mrunal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSilva123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="132px"/>
 
 
-### 🔥 Streak Stats
+### 🔥 Estatísticas de sequência
 
 ![Mrunal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JulioSilva123&theme=tokyonight)
 
-### 📊 Contribution Stats
+### 📊 Estatísticas de contribuição
 
+<!--
 <img alt="Mrunal's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JulioSilva123&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+-->
 
 <p align="center"> 
 <picture>
