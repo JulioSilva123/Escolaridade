@@ -1,7 +1,7 @@
 # IBM 
 
 
-### IBM-Applied Data Science
+### Applied Data Science
 
 
 

@@ -1,8 +1,7 @@
 # IBM 
 
 
-### IBM Data Science
-
+### Data Science
 
 
 1. Tools for Data Science

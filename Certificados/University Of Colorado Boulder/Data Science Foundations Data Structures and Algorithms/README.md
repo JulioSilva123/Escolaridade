@@ -1,9 +1,11 @@
 # University Of Colorado Boulder
 
+
+
 ### Certificado Profissional 
 
-1. Databases for Data Scientists Specialization
-2. Data Science Foundations: Data Structures and Algorithms
+#### Data Science Foundations: Data Structures and Algorithms
+
 
 ---
 
